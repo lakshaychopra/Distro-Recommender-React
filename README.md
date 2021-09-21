@@ -1,2 +1,3 @@
 # Distro-Recommender-React
-Created with CodeSandbox
+
+This App recommends various linux distributions from top linux families
